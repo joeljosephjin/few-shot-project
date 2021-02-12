@@ -1,5 +1,6 @@
 # few-shot-project
 
-To Run:
+To run:
+
 `python main.py`
 
