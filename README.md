@@ -26,6 +26,6 @@ You can put other images in the testset folder and run the code, which will pred
 You can also change images `0.jpg` and `1.jpg`, which can enable you to predict different classes of images.
 
 
-0.jpg             |  1.jpg             |  testfile1.jpg
+0.jpg             |  1.jpg             |  testimage1.jpg
 :-------------------------:|:-------------------------:|:-------------------------:
-![](/adaptset/0.jpg)  |  ![](/adaptset/1.jpg)  |  ![](/adaptset/testset/testfile1.jpg)
+![](/adaptset/0.jpg)  |  ![](/adaptset/1.jpg)  |  ![](/adaptset/testset/testimage1.jpg)
