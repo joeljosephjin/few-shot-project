@@ -29,3 +29,13 @@ You can also change images `0.jpg` and `1.jpg`, which can enable you to predict 
 0.jpg             |  1.jpg             |  testimage1.jpg
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](/adaptset/0.jpg)  |  ![](/adaptset/1.jpg)  |  ![](/adaptset/testset/testimage1.jpg)
+
+## Training
+
+`python train.py`
+
+
+or
+
+
+Colab Notebook: https://colab.research.google.com/drive/1WLPD0CziWm4dGz2bhN3X_54mDqlLvMGD
